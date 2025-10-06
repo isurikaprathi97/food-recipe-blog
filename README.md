@@ -34,34 +34,39 @@ Built using **WordPress**, customized with **Elementor** and the **Hello Element
 
 ## 🖥️ Desktop View
 
-<div align="center">
+### 🏠 Homepage
+![Homepage Desktop](assets/HomePage_Desktop.png)
 
-| Page | Screenshot |
-|------|-------------|
-| **Homepage** | <img src="assets/HomePage_Desktop.png" width="600"> |
-| **Post Page** | <img src="assets/Post_Desktop.png" width="600"> |
-| **Contact Page** | <img src="assets/ContactUs_Desktop.png" width="600"> |
-| **Footer Section** | <img src="assets/Footer_Desktop.png" width="600"> |
+### 📰 Post Page
+![Post Desktop](assets/Post_Desktop.png)
 
-</div>
+### ✉️ Contact Page
+![Contact Desktop](assets/ContactUs_Desktop.png)
+
+### 🔻 Footer Section
+![Footer Desktop](assets/Footer_Desktop.png)
 
 ---
 
 ## 📱 Mobile View
 
-<div align="center">
+### 🏠 Homepage
+![Homepage Mobile](assets/HomePage_Mobile.jpeg)
 
-| Page | Screenshot |
-|------|-------------|
-| **Homepage** | <img src="assets/HomePage_Mobile.jpeg" width="300"> |
-| **Post Page** | <img src="assets/Post_Mobile.jpeg" width="300"> |
-| **Contact Page** | <img src="assets/ContactUs_Mobile.jpeg" width="300"> |
-| **Footer Section** | <img src="assets/Footer_Mobile.jpeg" width="300"> |
-| **Menu Section** | <img src="assets/Menu_Mobile.jpeg" width="300"> |
+### 📰 Post Page
+![Post Mobile](assets/Post_Mobile.jpeg)
 
-</div>
+### ✉️ Contact Page
+![Contact Mobile](assets/ContactUs_Mobile.jpeg)
+
+### 🔻 Footer Section
+![Footer Mobile](assets/Footer_Mobile.jpeg)
+
+### 🍔 Menu Section
+![Menu Mobile](assets/Menu_Mobile.jpeg)
 
 ---
+
 
 
 ## 💻 Features
