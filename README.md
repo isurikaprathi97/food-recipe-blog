@@ -32,60 +32,37 @@ Built using **WordPress**, customized with **Elementor** and the **Hello Element
 
 ## 📺 Screenshots
 
-### 🖥️ Desktop vs 📱 Mobile View
+## 🖥️ Desktop View
 
-<table>
-<tr>
-<td align="center">
-<b>Homepage</b><br>
-<img src="assets/HomePage_Desktop.png" width="500">
-</td>
-<td align="center">
-<b>Homepage Mobile</b><br>
-<img src="assets/HomePage_Mobile.jpeg" width="300">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Post Page</b><br>
-<img src="assets/Post_Desktop.png" width="500">
-</td>
-<td align="center">
-<b>Post Mobile</b><br>
-<img src="assets/Post_Mobile.jpeg" width="300">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Contact Page</b><br>
-<img src="assets/ContactUs_Desktop.png" width="500">
-</td>
-<td align="center">
-<b>Contact Mobile</b><br>
-<img src="assets/ContactUs_Mobile.jpeg" width="300">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Footer Section</b><br>
-<img src="assets/Footer_Desktop.png" width="500">
-</td>
-<td align="center">
-<b>Footer Mobile</b><br>
-<img src="assets/Footer_Mobile.jpeg" width="300">
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Menu Section</b><br>
-<img src="assets/Menu_Mobile.jpeg" width="300">
-</td>
-<td></td>
-</tr>
-</table>
+<div align="center">
 
+| Page | Screenshot |
+|------|-------------|
+| **Homepage** | <img src="assets/HomePage_Desktop.png" width="600"> |
+| **Post Page** | <img src="assets/Post_Desktop.png" width="600"> |
+| **Contact Page** | <img src="assets/ContactUs_Desktop.png" width="600"> |
+| **Footer Section** | <img src="assets/Footer_Desktop.png" width="600"> |
+
+</div>
 
 ---
+
+## 📱 Mobile View
+
+<div align="center">
+
+| Page | Screenshot |
+|------|-------------|
+| **Homepage** | <img src="assets/HomePage_Mobile.jpeg" width="300"> |
+| **Post Page** | <img src="assets/Post_Mobile.jpeg" width="300"> |
+| **Contact Page** | <img src="assets/ContactUs_Mobile.jpeg" width="300"> |
+| **Footer Section** | <img src="assets/Footer_Mobile.jpeg" width="300"> |
+| **Menu Section** | <img src="assets/Menu_Mobile.jpeg" width="300"> |
+
+</div>
+
+---
+
 
 ## 💻 Features
 
